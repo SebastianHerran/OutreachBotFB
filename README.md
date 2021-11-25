@@ -16,5 +16,7 @@ Next, the "get_contact_from_fb_page" function is almost exactly alike, some key 
 
 Finally, a bit of code containing input and output reading and creating respectively is necessary.
 
-### 
+### Conclusion
+
+
 
