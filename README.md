@@ -16,7 +16,8 @@ Next, the "get_contact_from_fb_page" function is almost exactly alike, some key 
 
 Finally, a bit of code containing input and output reading and creating respectively is necessary.
 
-### Conclusion
+### Personal Note
+This project was very entertaining to make, although not without its obstacles. The main one being the process needed to scrap Facebook pages, which for this specific piece of information requires being signed in to a Facebook account to carry out. Unfortunately, Facebook prohibits scraping of any kind in its Robots.txt file, so this project may very well be best shortened to just the first section which scrapes individual company webpages. It is definitely important to keep in mind what is allowed and isn't when developing a tool of this nature. 
 
 
 
